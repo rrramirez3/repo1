@@ -1,0 +1,4 @@
+Ejercicio 1 - Dado un numero determine si es positivo o negativo: 
+El progama lo que nos hace es al ingresar un numero este nos imprimira si el numero es positivo, negativo o es cero.
+Ejercicio 2 - Dado un numero encuentre su numero binario:
+Al ingresar un numero decimal este nos debe transformar a un numero binario mediante divisiones sucesivas y al culminar debe imprimir.
